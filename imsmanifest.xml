@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_5voE6jaDeSs" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_5j8ZxSxAT3K" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
     <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
       <general>
         <title>
-          <langstring xml:lang="x-none">G4 AR Q7</langstring>
+          <langstring xml:lang="x-none">Q7</langstring>
         </title>
       </general>
       <lifecycle>
@@ -50,16 +50,16 @@
       </rights>
     </lom>
   </metadata>
-  <organizations default="G4_AR_Q7_ORG">
-    <organization identifier="G4_AR_Q7_ORG">
-      <title>G4 AR Q7</title>
-      <item identifier="المادة_مصر_أول_إعدادي_1_SCO" isvisible="true" identifierref="__5voE6jaDeSs_RES">
-        <title>G4 AR Q7</title>
+  <organizations default="Q7_ORG">
+    <organization identifier="Q7_ORG">
+      <title>Q7</title>
+      <item identifier="المادة_مصر_أول_إعدادي_1_SCO" isvisible="true" identifierref="__5j8ZxSxAT3K_RES">
+        <title>Q7</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__5voE6jaDeSs_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__5j8ZxSxAT3K_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="story_content/video_5aEA1wzV5aH_18_160_1920x1072.mp4" />
       <file href="mobile/poster_5oClQ5x3IY7_video_5aEA1wzV5aH_18_160_1920x1072.jpg" />
@@ -71,7 +71,6 @@
       <file href="story_content/5tAdBpaPZcW_44100_160_0.mp3" />
       <file href="mobile/6a2guQlCWq1.gif" />
       <file href="meta.xml" />
-      <file href="story_content/6BrSz8P6TK7.png" />
       <file href="story_content/user.js" />
       <file href="mobile/Slide5kmWHv4SQBJ.jpg" />
       <file href="html5/data/css/output.min.css" />
